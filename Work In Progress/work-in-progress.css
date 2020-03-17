@@ -1,0 +1,41 @@
+*
+{ margin: 0px;
+  padding: 0px;
+}
+
+body{
+        background-color: #541F65;
+}
+
+img{
+        width: 25%;
+        height: 25%;
+        padding-top: 8%;
+        padding-left: 14%;
+
+}
+
+h2{
+    padding-top: 1%;
+}
+
+iframe{
+            margin-left: 40%;
+            padding-top: 2%;
+}
+
+#flex{
+        display: flex;
+}
+
+#flex2{
+        padding-top: 16%;
+        padding-left: 6%;
+}
+
+h1,h2,h3,h4{
+                color: white;
+                text-align: center;
+                font-family: 'Courgette', cursive;
+}
+
